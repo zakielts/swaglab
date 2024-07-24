@@ -78,4 +78,5 @@ Select the card
 
     Log     ${index}
     sleep   5s
+    sleep   5s
 
